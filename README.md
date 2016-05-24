@@ -1,3 +1,6 @@
+Ini bagian yang Kelas Belajar Membuat Aplikasi Android HTML5 dengan Intel XDK
+
+
 Blank HTML App Designer Template for Building Mobile Cordova Web Apps
 =====================================================================
 
