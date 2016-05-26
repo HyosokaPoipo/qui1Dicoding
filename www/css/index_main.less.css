@@ -337,3 +337,27 @@ body#afui .splt {
 #afui .header header > .with-back > :not(#backButton) {
   display: none;
 }
+@media all {
+  #afui .wrapping-col > .d-margins,
+  #afui .wrapping-col > .afScrollPanel > .d-margins {
+    margin-left: 4px;
+    margin-right: 5px;
+  }
+  #afui .wrapping-col > .d-margins,
+  #afui .wrapping-col > .afScrollPanel > .d-margins {
+    margin-left: 4px;
+    margin-right: 5px;
+  }
+  #afui .d-margins {
+    margin-top: 5px;
+    margin-bottom: 6px;
+  }
+}
+.transparent {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
