@@ -366,3 +366,19 @@ body#afui .splt {
     color: #ffffff;
   }
 }
+.figure-align {
+  display: table;
+  margin: 0px auto;
+}
+.figure-align img {
+  width: 100%;
+}
+.image-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+@media all {
+  #afui .scale-image img {
+    width: 200px;
+  }
+}
