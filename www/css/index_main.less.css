@@ -361,3 +361,8 @@ body#afui .splt {
   overflow: hidden;
   outline: none;
 }
+@media all {
+  #afui .putih {
+    color: #ffffff;
+  }
+}
